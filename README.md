@@ -1,20 +1,80 @@
-# 💫 About Me:
-Hello I'm Abdelrahman ( aka oPinqzz ) ,  Plugin Developer & Backend Developer<br><br>Hello, I'm Abdelrahman, Known also as oPinqzz, Backend Developer and a University Student majoring in Software Engineering<br><br>
+# Hey, I'm Abdelrahman 👋
 
+### Backend Software Engineer | PHP · Laravel · Distributed Systems
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/opinqzz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@opinqzz) 
+I'm a backend software engineer interested in building reliable systems, understanding how software behaves under concurrency, and exploring the engineering behind distributed infrastructure.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oPinqzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oPinqzz&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oPinqzz&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I've spent several years working with PHP and building backend systems, particularly within the PocketMine-MP ecosystem. My experience includes asynchronous processing, worker architectures, database abstractions, concurrency and performance optimisation.
 
+I'm currently expanding my experience into modern web backend engineering with Laravel and exploring distributed systems more deeply.
 
+---
 
+### Technologies & Tools
 
+**Languages**
+- PHP
+- JavaScript
+- TypeScript
+- SQL
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Backend**
+- Laravel
+- Node.js
+- REST APIs
+
+**Databases & Messaging**
+- PostgreSQL
+- MySQL
+- Redis
+
+**Infrastructure & Tools**
+- Linux
+- Docker
+- Git
+- GitHub Actions
+
+---
+
+### Areas of Interest
+
+- Distributed Systems
+- Database Engineering
+- Concurrency & Parallel Processing
+- Fault Tolerance & Reliability
+- System Architecture
+- Performance Engineering
+
+---
+
+### Selected Work
+
+**Atlas DB**
+- A PHP database abstraction and query execution project.
+- Explored database reliability, query handling and asynchronous execution.
+
+**Netherrack**
+- Backend infrastructure developed for a PocketMine-MP multiplayer network.
+- Worked on worker systems, concurrency.
+
+**Currently building:** Project Relay — a distributed job processing platform exploring worker coordination, job scheduling, retries and fault tolerance.
+
+---
+
+### Currently Learning
+
+- Modern Laravel application architecture
+- Advanced JavaScript and Node.js
+- PostgreSQL internals and query optimisation
+- Distributed systems fundamentals
+
+---
+
+### Find Me
+
+- GitHub: [@AbdelrahmanIsmail](https://github.com/abdelrahmanismaildev)
+- LinkedIn: [Your LinkedIn URL](#)
+
+---
+
+*Interested in how systems work, why they fail, and how to make them reliable.*
