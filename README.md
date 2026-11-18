@@ -10,11 +10,10 @@ I'm currently expanding my experience into modern web backend engineering with L
 
 ---
 
-### Technologies & Tools
+### Technologies & Tools ( Some are still being learnt )
 
 **Languages**
 - PHP
-  Learning:
 - JavaScript
 - TypeScript
 - SQL
