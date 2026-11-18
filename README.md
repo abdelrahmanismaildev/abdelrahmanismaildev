@@ -14,6 +14,7 @@ I'm currently expanding my experience into modern web backend engineering with L
 
 **Languages**
 - PHP
+  Learning:
 - JavaScript
 - TypeScript
 - SQL
